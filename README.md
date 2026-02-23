@@ -17,10 +17,7 @@
   </a>
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammadAqaNoori&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MohammadAqaNoori&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadAqaNoori&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -34,17 +31,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MohammadAqaNoori&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=MohammadAqaNoori&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" width="100%"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=dev-abuhurera&label=PROFILE+VIEWS&style=flat-square&color=7d40ff" />
-</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
